@@ -32,7 +32,7 @@ Explore the project's development materials in this repository:
 
 Visual Portfolio
 
-Behance project: Link coming soon.
+Behance project: https://www.behance.net/gallery/257425221/A-DRUMFALL-Game-Concept-Design
 
 The Behance presentation will showcase the game's visual direction, world-building, character concepts, combat system, narrative structure, and creative vision.
 
